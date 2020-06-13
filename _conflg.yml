@@ -1,5 +1,5 @@
 deploy:
   type: git
   repo: https://github.com/username/reponame
-  # example, https://github.com/hexojs/hexojs.github.io
+  # example, https://github.com/chaohua525/zhao508.github.io
   branch: gh-pages
